@@ -18,7 +18,6 @@ type StatusQRProps =
   | "active"
   | "expired"
   | "loading"
-  | "cancelled";
 
 function WalletComplete({
   back,
@@ -70,7 +69,7 @@ function WalletComplete({
   };
 
   const handleRefresh = async () => {
-    if (statusQR === "expired" || statusQR === "cancelled") {
+    if (statusQR === "expired") {
       try {
         const networkID = information.network;
 
@@ -114,8 +113,6 @@ function WalletComplete({
         } else if (status === "completed") {
           setSuccess(true);
         } else if (status === "cancelled") {
-          setStatusQR("cancelled");
-
           clearInterval(interval!);
         }
       } catch (error) {

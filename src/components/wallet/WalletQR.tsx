@@ -24,13 +24,6 @@ const customStatusRender: QRCodeProps["statusRender"] = (info) => {
           <p className="text-[4.5vw]">Loading...</p>
         </Space>
       );
-      case "cancelled":
-      return (
-        <div className="absolute top-[35%] -translate-y-1/2 text-[5vw]">
-          <StopOutlined style={{ color: "red" }} />
-          <p>{" Cancelled"}</p>
-        </div>
-      );
     default:
       return null;
   }
@@ -38,7 +31,7 @@ const customStatusRender: QRCodeProps["statusRender"] = (info) => {
 
 interface WalletQRProps {
   valueHref: string;
-  status: "active" | "expired" | "loading" | "cancelled";
+  status: "active" | "expired" | "loading";
   refresh: () => void;
 }
 
@@ -54,7 +47,7 @@ const WalletQR: React.FC<WalletQRProps> = ({ valueHref, status, refresh }) => {
         errorLevel="H"
         icon="/qr-icon.png"
       />
-      {(status === "expired" || status === "cancelled") && (
+      {status === "expired" && (
         <Button
           type="link"
           onClick={refresh}
