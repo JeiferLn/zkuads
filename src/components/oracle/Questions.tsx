@@ -7,7 +7,7 @@ import ZkuadsLogo from "../zquads/ZkuadsLogo";
 import axiosTokenClient from "@/utils/axiosTokenClient";
 import Cookies from "js-cookie";
 import OracleLogo from "./OracleLogo";
-import OracleContainer from "../containers/oracle/OracleQuestionSVG";
+import OracleContainer from "../containers/Oracle/OracleQuestionSVG";
 
 interface QuestionOptionProps {
   text: string;
