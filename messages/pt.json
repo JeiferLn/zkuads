@@ -1,0 +1,231 @@
+{
+  "Buttons": {
+    "Google": "Continuar com Google",
+    "Discord": "Continuar com Discord",
+    "Email": "Continuar com E-mail",
+    "Login": "Entrar",
+    "SignIn": "Inscrever-se",
+    "MoreGames": "Mais Jogos",
+    "Sure": "Claro!",
+    "Continue": "Continuar"
+  },
+  "Index": {
+    "Slider": {
+      "Slide1": "Bem-vindo ao ZKUADS - Onde Jogos Encontram Apostas P2P!",
+      "Slide2": "Passos Simples para Começar a Ganhar!",
+      "Slide3": "Conecte-se, Converse, Compita!",
+      "Slide4": "Experimente Justiça e Melhores Odds",
+      "Slide5": "Jogando em Qualquer Lugar, a Qualquer Hora"
+    },
+    "HomeGames": {
+      "FeaturedGames": "Jogos em Destaque"
+    }
+  },
+  "Form": {
+    "Login": {
+      "Email": "E-mail",
+      "EmailPlaceholder": "Digite seu e-mail",
+      "Password": "Senha",
+      "PasswordPlaceholder": "Digite sua senha",
+      "Login": "Entrar"
+    },
+    "DontAccount": "Não tem uma conta?",
+    "SignIn": "Inscreva-se agora!",
+    "Or": "Ou",
+    "Register": {
+      "Title": "Inscreva-se!",
+      "Body": "Registre-se no Zkuads preenchendo seu nome, sobrenome, nome de usuário, e-mail e senha. Clique em &quot;Continuar&quot; para se juntar à nossa comunidade. Bem-vindo ao Zkuads!",
+      "FirstName": "Nome",
+      "LastName": "Sobrenome",
+      "BirthDate": "Data de Nascimento",
+      "PhoneNumber": "Número de Telefone",
+      "Username": "Nome de Usuário",
+      "Email": "E-mail",
+      "Password": "Senha",
+      "RePassword": "Confirmar Senha",
+      "Terms&Conditions": "Aceitar Termos e Condições"
+    }
+  },
+  "Zkuads": {
+    "red": "Zkuad Vermelho",
+    "blue": "Zkuad Azul",
+    "yellow": "Zkuad Amarelo"
+  },
+  "Oracle": {
+    "Question1": {
+      "Title": "Qual é o seu dispositivo de jogo preferido?",
+      "a": "Smartphone ou tablet.",
+      "b": "Console.",
+      "c": "PC."
+    },
+    "Question2": {
+      "Title": "Como você escolhe seus jogos?",
+      "a": "Curtos e simples.",
+      "b": "Histórias e relaxamento.",
+      "c": "Multiplayer e social."
+    },
+    "Question3": {
+      "Title": "Qual é a sua reação aos desafios dentro do jogo?",
+      "a": "Calmamente.",
+      "b": "Moderado.",
+      "c": "Mínimo e sem estresse."
+    },
+    "Question4": {
+      "Title": "Com que frequência você joga em uma semana?",
+      "a": "Curto e frequente.",
+      "b": "Longo e esporádico.",
+      "c": "Apenas quando há tempo."
+    },
+    "Question5": {
+      "Title": "Qual gênero você acha mais divertido?",
+      "a": "Quebra-cabeças e arcade.",
+      "b": "Competitivo.",
+      "c": "Multiplayer casual."
+    },
+    "Question6": {
+      "Title": "Como você se sente sobre conquistas e rastreamento de progresso?",
+      "a": "Conquistas imediatas.",
+      "b": "Progresso gradual.",
+      "c": "Jogando para relaxar."
+    },
+    "Question7": {
+      "Title": "Qual é o seu ambiente de jogo preferido?",
+      "a": "Com móvel, em qualquer lugar.",
+      "b": "Espaço confortável.",
+      "c": "Onde os amigos estão."
+    },
+    "Question8": {
+      "Title": "Como você lida com interrupções?",
+      "a": "Pausar e retomar facilmente.",
+      "b": "Prefere sem interrupções.",
+      "c": "Escolha jogos com pausas."
+    },
+    "Question9": {
+      "Title": "Que tipo de história te atrai em jogos?",
+      "a": "Enredos simples.",
+      "b": "Enredos complexos.",
+      "c": "A jogabilidade é a chave."
+    },
+    "Question10": {
+      "Title": "O que te motiva a continuar jogando?",
+      "a": "Gratificação rápida.",
+      "b": "Aproveitando o jogo.",
+      "c": "Conexões com amigos."
+    }
+  },
+  "Errors": {
+    "FormErrors": {
+      "FirstName": "Nome é obrigatório",
+      "LastName": "Sobrenome é obrigatório",
+      "BirthDate": "Data de Nascimento é obrigatória",
+      "Username": "Nome de Usuário é obrigatório",
+      "Email": "E-mail é obrigatório",
+      "Password": "Senha é obrigatória",
+      "RePassword": "Confirmar Senha é obrigatório",
+      "Terms&Conditions": "Você deve aceitar os termos e condições",
+      "PhoneNumber": "Número de Telefone é obrigatório"
+    },
+    "GenericError": {
+      "Title": "Ops! é nossa culpa",
+      "Body": "Algo deu errado. Por favor, tente novamente mais tarde ou entre em contato com o suporte se o problema continuar."
+    },
+    "EmailRegistered": {
+      "Title": "E-mail já registrado",
+      "Body": "O e-mail que você inseriu já está registrado. Por favor, tente fazer login ou use um e-mail diferente."
+    },
+    "ActivateError": {
+      "Title": "Algo deu errado!",
+      "Body": "Sua conta foi ativada com sucesso. Agora você pode acessar todos os recursos e serviços que oferecemos. Obrigado por se juntar a nós!"
+    }
+  },
+  "Response": {
+    "CreateUser": {
+      "Title": "Conta Criada",
+      "BodyPart1": "Sua conta foi criada com sucesso.",
+      "BodyPart2": "Verifique seu e-mail para verificar sua conta usando o link que enviamos."
+    },
+    "SelectZkuad": {
+      "Title": "Parabéns!",
+      "Zkuad1": {
+        "Name1": "MESTRES",
+        "Name2": "MÍSTICOS",
+        "Name": "MESTRES MÍSTICOS",
+        "Skills": "Paciência · Estratégia · Longo Prazo",
+        "Description1": "Esta equipe, mestre da estratégia de longo prazo, combina paciência e conhecimento profundo para executar movimentos calculados que garantem a vitória. Os",
+        "Description2": "se destacam por sua capacidade de superar seus oponentes com precisão e calma em cada jogada."
+      },
+      "Zkuad2": {
+        "Name1": "ATACANTES",
+        "Name2": "SERÁFICOS",
+        "Name": "ATACANTES SERÁFICOS",
+        "Skills": "Táticas · Equilíbrio · Sorte",
+        "Description": "Esta equipe de guerreiros celestiais combina precisão tática e equilíbrio estratégico em cada partida, transformando o jogo em uma dança de habilidade e chance. Os",
+        "Description2": "são reconhecidos por sua capacidade de harmonizar táticas, estratégia e a emocionante imprevisibilidade da sorte."
+      },
+      "Zkuad3": {
+        "Name1": "ÁS",
+        "Name2": "ASTRAL",
+        "Name": "ÁS ASTRAL",
+        "Skills": "Habilidade · Velocidade · Jogo em Equipe",
+        "Description1": "Esta equipe domina o campo com trabalho em equipe telepático, combinando força, agilidade e manobras sincronizadas. Os",
+        "Description2": "se destacam com poder preciso, velocidade ilimitada e uma coordenação que brilha em uma exibição cósmica de excelência em jogos."
+      },
+      "Continue": "Continuar"
+    }
+  },
+  "TermsAndContions": {
+    "HeaderPart1": "Bem-vindo ao Zkuads. Estes termos e condições (Termos) regem seu acesso e uso do nosso site, localizado em",
+    "HeaderPart2": "(o Site). Ao se registrar no Zkuads, você concorda em cumprir e estar legalmente vinculado a estes Termos. Se você não concordar com qualquer um destes Termos, você não deve se registrar ou usar o Site.",
+    "Section1": {
+      "Title": "Aceitação dos Termos",
+      "Body": "Ao se registrar no Site, você concorda com estes Termos em sua totalidade. Reservamo-nos o direito de modificar estes Termos a qualquer momento, e tais modificações serão efetivas imediatamente após a publicação no Site. É sua responsabilidade revisar estes Termos periodicamente para estar ciente de quaisquer alterações."
+    },
+    "Section2": {
+      "Title": "Registro de Conta",
+      "Body": "Para acessar certos serviços e recursos do Site, você pode ser obrigado a criar uma conta. Você concorda em fornecer informações verdadeiras, precisas, atuais e completas durante o processo de registro e atualizar essas informações para mantê-las verdadeiras, precisas, atuais e completas."
+    },
+    "Section3": {
+      "Title": "Privacidade",
+      "BodyPart1": "Nossa política de privacidade, disponível em",
+      "BodyPart2": ", descreve como lidamos e protegemos suas informações pessoais. Ao se registrar e usar o Site, você concorda com as práticas de privacidade descritas em nossa política."
+    },
+    "Section4": {
+      "Title": "Uso Aceitável",
+      "Body": "Você concorda em usar o Site apenas para fins legais e de acordo com estes Termos. Você não deve:",
+      "List": {
+        "1": "Usar o Site de qualquer forma que viole qualquer lei ou regulamento federal, estadual, local ou internacional aplicável.",
+        "2": "Usar o Site para transmitir, distribuir, armazenar ou destruir material que seja difamatório, obsceno, ilegal ou infrinja os direitos de terceiros.",
+        "3": "Tentar obter acesso não autorizado a qualquer parte do Site, contas de outros usuários ou quaisquer sistemas ou redes de computadores conectados ao Site."
+      }
+    },
+    "Section5": {
+      "Title": "Propriedade Intelectual",
+      "Body": "Todo o conteúdo do Site, incluindo texto, gráficos, logotipos, imagens e software, é propriedade do Zkuads ou de seus licenciadores e é protegido por leis de direitos autorais e outras leis de propriedade intelectual. Você não pode reproduzir, distribuir, modificar, criar obras derivadas, exibir publicamente, executar publicamente, republicar, baixar, armazenar ou transmitir qualquer material no Site sem nosso consentimento prévio por escrito."
+    },
+    "Section6": {
+      "Title": "Limitação de Responsabilidade",
+      "Body": "O Zkuads não será responsável por quaisquer danos indiretos, incidentais, especiais, consequenciais ou punitivos decorrentes ou relacionados ao seu uso ou incapacidade de usar o Site. Nossa responsabilidade total para com você por quaisquer danos, perdas e causas de ação não excederá o valor que você pagou, se houver, para acessar o Site."
+    },
+    "Section7": {
+      "Title": "Indenização",
+      "Body": "Você concorda em indenizar, defender e isentar o Zkuads, seus diretores, funcionários, agentes e licenciadores de todas as reivindicações, perdas, responsabilidades, despesas, danos e custos, incluindo, sem limitação, honorários advocatícios razoáveis, decorrentes ou relacionados ao seu uso ou uso indevido do Site ou qualquer violação destes Termos."
+    },
+    "Section8": {
+      "Title": "Rescisão",
+      "Body": "Reservamo-nos o direito de suspender ou encerrar sua conta e acesso ao Site a qualquer momento, por qualquer motivo, sem aviso prévio ou responsabilidade para com você."
+    },
+    "Section9": {
+      "Title": "Lei Aplicável",
+      "Body": "Estes Termos serão regidos e interpretados de acordo com as leis da República Argentina, sem dar efeito a quaisquer princípios de conflitos de leis. Qualquer disputa decorrente ou relacionada a estes Termos ou ao uso do Site será resolvida exclusivamente nos tribunais localizados em Buenos Aires, Argentina."
+    },
+    "Section10": {
+      "Title": "Disposições Gerais",
+      "Body": "Se qualquer disposição destes Termos for considerada inválida ou inexequível, tal disposição será excluída ou limitada ao mínimo necessário, e as disposições restantes continuarão em pleno vigor e efeito. Nossa falha em exercer ou fazer cumprir qualquer direito ou disposição destes Termos não constituirá uma renúncia de tal direito ou disposição."
+    },
+    "Section11": {
+      "Title": "Contate-Nos",
+      "Body": "Se você tiver alguma dúvida ou preocupação sobre estes Termos, entre em contato conosco através do nosso formulário de contato em"
+    },
+    "Footer": "Obrigado por escolher o Zkuads. Esperamos que você aproveite nossos serviços!"
+  }
+}

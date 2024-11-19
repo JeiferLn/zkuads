@@ -1,0 +1,231 @@
+{
+  "Buttons": {
+    "Google": "Continue with Google",
+    "Discord": "Continue with Discord",
+    "Email": "Continue with E-mail",
+    "Login": "Login",
+    "SignIn": "Sign up",
+    "MoreGames": "More Games",
+    "Sure": "Sure!",
+    "Continue": "Continue"
+  },
+  "Index": {
+    "Slider": {
+      "Slide1": "Welcome to ZKUADS - Where Gaming Meets P2P Betting!",
+      "Slide2": "Simple Steps to Start Winning!",
+      "Slide3": "Connect, Chat, Compete!",
+      "Slide4": "Experience Fairness and Better Odds",
+      "Slide5": "Gaming Anywhere, Anytime"
+    },
+    "HomeGames": {
+      "FeaturedGames": "Featured Games"
+    }
+  },
+  "Form": {
+    "Login": {
+      "Email": "E-mail",
+      "EmailPlaceholder": "Enter your e-mail",
+      "Password": "Password",
+      "PasswordPlaceholder": "Enter your password",
+      "Login": "Login"
+    },
+    "DontAccount": "Don't have an account?",
+    "SignIn": "Sign up now!",
+    "Or": "Or",
+    "Register": {
+      "Title": "Sign up!",
+      "Body": "Register on Zkuads by filling in your first name, last name, username, email, and password. Click &quot;Continue&quot; to join our community. Welcome to Zkuads!",
+      "FirstName": "First Name",
+      "LastName": "Last Name",
+      "BirthDate": "BirthDate",
+      "PhoneNumber": "Phone Number",
+      "Username": "Username",
+      "Email": "Email",
+      "Password": "Password",
+      "RePassword": "Comfirm Password",
+      "Terms&Conditions": "Accept Terms and Conditions"
+    }
+  },
+  "Zkuads": {
+    "red": "Red Zkuad",
+    "blue": "Blue Zkuad",
+    "yellow": "Yellow Zkuad"
+  },
+  "Oracle": {
+    "Question1": {
+      "Title": "What is your preferred gaming device?",
+      "a": "Smartphone or tablet.",
+      "b": "Console.",
+      "c": "PC."
+    },
+    "Question2": {
+      "Title": "How do you choose your games?",
+      "a": "Short and simple.",
+      "b": "Stories and relaxation.",
+      "c": "Multiplayer and social."
+    },
+    "Question3": {
+      "Title": "What is your reaction to challenges within the game?",
+      "a": "Calmly.",
+      "b": "Moderate.",
+      "c": "Minimal and stress-free."
+    },
+    "Question4": {
+      "Title": "How often do you play in a week?",
+      "a": "Short and frequent.",
+      "b": "Long and sporadic.",
+      "c": "Only when there is time."
+    },
+    "Question5": {
+      "Title": "Which genre do you find most entertaining?",
+      "a": "Puzzles and arcade.",
+      "b": "Competitive.",
+      "c": "Casual multiplayer."
+    },
+    "Question6": {
+      "Title": "How do you feel about achievements and progress tracking?",
+      "a": "Immediate achievements.",
+      "b": "Gradual progress.",
+      "c": "Playing to relax."
+    },
+    "Question7": {
+      "Title": "What is your preferred gaming environment?",
+      "a": "With mobile, anywhere.",
+      "b": "Comfortable space.",
+      "c": "Where friends are."
+    },
+    "Question8": {
+      "Title": "How do you handle interruptions?",
+      "a": "Pause and resume easily.",
+      "b": "Prefer without interruptions.",
+      "c": "Choose games with pauses."
+    },
+    "Question9": {
+      "Title": "What kind of story attracts you in games?",
+      "a": "Simple plots.",
+      "b": "Complex plots.",
+      "c": "Gameplay is key."
+    },
+    "Question10": {
+      "Title": "What motivates you to keep playing?",
+      "a": "Quick gratification.",
+      "b": "Enjoying the game.",
+      "c": "Connections with friends."
+    }
+  },
+  "Errors": {
+    "FormErrors": {
+      "FirstName": "First Name is required",
+      "LastName": "Last Name is required",
+      "BirthDate": "Birth Date is required",
+      "Username": "Username is required",
+      "Email": "Email is required",
+      "Password": "Password is required",
+      "RePassword": "Confirm Password is required",
+      "Terms&Conditions": "You must accept the terms and conditions",
+      "PhoneNumber": "Phone Number is required"
+    },
+    "GenericError": {
+      "Title": "Oops! it's our fault",
+      "Body": "Something went wrong. Please try again later or contact support if the problem continues."
+    },
+    "EmailRegistered": {
+      "Title": "Email already registered",
+      "Body": "The email you entered is already registered. Please try logging in or use a different email."
+    },
+    "ActivateError": {
+      "Title": "Something went wrong!",
+      "Body": "Your account has been successfully activated. You can now access all the features and services we offer. Thank you for joining us!"
+    }
+  },
+  "Response": {
+    "CreateUser": {
+      "Title": "Account Created",
+      "BodyPart1": "Your account has been successfully created.",
+      "BodyPart2": "Check your email to verify your account using the link we sent."
+    },
+    "SelectZkuad": {
+      "Title": "Congratulations!",
+      "Zkuad1": {
+        "Name1": "MYSTIC",
+        "Name2": "MASTERS",
+        "Name": "MYSTIC MASTERS",
+        "Skills": "Patience · Strategy · Long Term",
+        "Description1": "This team, master of long-term strategy, combines patience and deep knowledge to execute calculated moves that guarantee victory. The",
+        "Description2": "stand out for their ability to outwit their opponents with precision and calmness in every play."
+      },
+      "Zkuad2": {
+        "Name1": "SERAPHIC",
+        "Name2": "STRIKERS",
+        "Name": "SERAPHIC STRIKERS",
+        "Skills": "Tactics · Balance · Luck",
+        "Description1": "This team of celestial warriors combines tactical precision and strategic balance in every match, turning the game into a dance of skill and chance. The",
+        "Description2": "are recognized for their ability to harmonize tactics, strategy, and the thrilling unpredictability of luck."
+      },
+      "Zkuad3": {
+        "Name1": "ASTRAL",
+        "Name2": "ACES",
+        "Name": "ASTRAL ACES",
+        "Skills": "Ability · Speed · Team Play",
+        "Description1": "This team dominates the field with telepathic teamwork, combining strength, agility, and synchronized maneuvers. The",
+        "Description2": "excel with precise power, unlimited speed, and a coordination that shines in a cosmic display of gaming excellence."
+      },
+      "Continue": "Continue"
+    }
+  },
+  "TermsAndContions": {
+    "HeaderPart1": "Welcome to Zkuads. These terms and conditions (Terms) govern your access to and use of our website, located at",
+    "HeaderPart2": "(the Site). By registering on Zkuads, you agree to comply with and be legally bound by these Terms. If you do not agree to any of these Terms, you should not register or use the Site.",
+    "Section1": {
+      "Title": "Acceptance of Terms",
+      "Body": "By registering on the Site, you agree to these Terms in their entirety. We reserve the right to modify these Terms at any time, and such modifications will be effective immediately upon posting on the Site. It is your responsibility to review these Terms periodically to be aware of any changes."
+    },
+    "Section2": {
+      "Title": "Account Registration",
+      "Body": "To access certain services and features of the Site, you may be required to create an account. You agree to provide true, accurate, current, and complete information during the registration process and to update such information to keep it true, accurate, current, and complete."
+    },
+    "Section3": {
+      "Title": "Privacy",
+      "BodyPart1": "Our privacy policy, available at",
+      "BodyPart2": ", describes how we handle and protect your personal information. By registering and using the Site, you agree to the privacy practices described in our policy."
+    },
+    "Section4": {
+      "Title": "Acceptable Use",
+      "Body": "You agree to use the Site only for lawful purposes and in accordance with these Terms. You must not:",
+      "List": {
+        "1": "Use the Site in any way that violates any applicable federal, state, local, or international law or regulation.",
+        "2": "Use the Site to transmit, distribute, store, or destroy material that is defamatory, obscene, unlawful, or infringes the rights of others.",
+        "3": "Attempt to gain unauthorized access to any part of the Site, other users&apos; accounts, or any computer systems or networks connected to the Site."
+      }
+    },
+    "Section5": {
+      "Title": "Intellectual Property",
+      "Body": "All content on the Site, including text, graphics, logos, images, and software, is the property of Zkuads or its licensors and is protected by copyright and other intellectual property laws. You may not reproduce, distribute, modify, create derivative works of, publicly display, publicly perform, republish, download, store, or transmit any material on the Site without our prior written consent."
+    },
+    "Section6": {
+      "Title": "Limitation of Liability",
+      "Body": "Zkuads will not be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or in connection with your use or inability to use the Site. Our total liability to you for any damages, losses, and causes of action will not exceed the amount you paid, if any, to access the Site."
+    },
+    "Section7": {
+      "Title": "Indemnification",
+      "Body": "You agree to indemnify, defend, and hold harmless Zkuads, its directors, employees, agents, and licensors from and against all claims, losses, liabilities, expenses, damages, and costs, including, without limitation, reasonable attorneys&apos; fees, arising from or related to your use or misuse of the Site or any violation of these Terms."
+    },
+    "Section8": {
+      "Title": "Termination",
+      "Body": "We reserve the right to suspend or terminate your account and access to the Site at any time, for any reason, without notice or liability to you."
+    },
+    "Section9": {
+      "Title": "Governing Law",
+      "Body": "These Terms will be governed by and construed in accordance with the laws of the Republic of Argentina, without giving effect to any principles of conflicts of law. Any dispute arising out of or in connection with these Terms or the use of the Site will be exclusively resolved in the courts located in Buenos Aires, Argentina."
+    },
+    "Section10": {
+      "Title": "General Provisions",
+      "Body": "If any provision of these Terms is deemed invalid or unenforceable, such provision will be deleted or limited to the minimum extent necessary, and the remaining provisions will continue in full force and effect. Our failure to exercise or enforce any right or provision of these Terms will not constitute a waiver of such right or provision."
+    },
+    "Section11": {
+      "Title": "Contact Us",
+      "Body": "If you have any questions or concerns about these Terms, please contact us through our contact form at"
+    },
+    "Footer": "Thank you for choosing Zkuads. We hope you enjoy our services!"
+  }
+}
