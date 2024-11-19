@@ -18,7 +18,6 @@ type StatusQRProps =
   | "active"
   | "expired"
   | "loading"
-  | "completed"
   | "cancelled";
 
 function WalletComplete({

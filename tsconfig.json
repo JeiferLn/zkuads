@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    "typeRoots": ["./node_modules/@types", "./types"], // Incluye tus tipos personalizados
+    "baseUrl": "./",
     "forceConsistentCasingInFileNames": true,
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
@@ -19,7 +21,8 @@
       }
     ],
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["./src/*"],
+      "antd": ["./node_modules/antd"]
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/app/[locale]/protectedPage/page.jsx", "src/app/[locale]/protectedPage/withAuth.jsx", "src/utils/checkDeviceType.tss", "src/hooks/useHandleRouteChange.ts"],

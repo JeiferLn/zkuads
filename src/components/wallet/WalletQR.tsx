@@ -24,12 +24,6 @@ const customStatusRender: QRCodeProps["statusRender"] = (info) => {
           <p className="text-[4.5vw]">Loading...</p>
         </Space>
       );
-    case "completed":
-      return (
-        <div className="absolute top-[50%] -translate-y-1/2 text-[5vw]">
-          <CheckCircleFilled style={{ color: "green" }} />{" Completed"}
-        </div>
-      );
       case "cancelled":
       return (
         <div className="absolute top-[35%] -translate-y-1/2 text-[5vw]">
@@ -44,7 +38,7 @@ const customStatusRender: QRCodeProps["statusRender"] = (info) => {
 
 interface WalletQRProps {
   valueHref: string;
-  status: "active" | "expired" | "loading" | "completed" | "cancelled";
+  status: "active" | "expired" | "loading" | "cancelled";
   refresh: () => void;
 }
 
